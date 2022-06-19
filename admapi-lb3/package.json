@@ -11,7 +11,6 @@
     "posttest": "npm run lint"
   },
   "dependencies": {
-    "@aliatech/loopback-mongo-aggregate-mixin": "github:aliatech/loopback-mongo-aggregate-mixin",
     "compression": "^1.0.3",
     "cors": "^2.5.2",
     "helmet": "^3.10.0",
